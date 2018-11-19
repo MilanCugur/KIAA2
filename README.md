@@ -6,3 +6,8 @@ Sources:
   [link: http://poincare.matf.bg.ac.rs/~vesnap/kaa2/kaa2.pdf, page 25, section 1.7]
 * 'Victor Klee, Can the Measure of ∪n[ai, bi] be Computed in Less Than O(n log n) Steps?', 1977 (pdf in attach)
 
+
+TODO: add pdf project description
+      add colab hardware specifications and time results
+      improuve source.ipynb
+
